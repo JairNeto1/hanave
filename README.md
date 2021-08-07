@@ -8,10 +8,14 @@
 
 ---
 
+## 🤖 Tecnologias
+
 - API
 - JS
 - JSON
 - CHATBOT
+- UX
+- NLU
 
 <p>
 <a href='https://app.shawee.io/dashboard/hackathons/' target='_blank'>->Plataforma Shawee</a>
