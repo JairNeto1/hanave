@@ -2,55 +2,87 @@
   "produtos": [
     {
       "id": 1,
-      "nome": "Hambúrguer",
-      "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
-      "preco": 8.5,
+      "nome": "Dailus",
+      "descricao": "Nude 19 Lutei, Venci",
+      "preco": 11.00,
       "categoria_id": 1
     },
     {
       "id": 2,
       "nome": "X-Búrguer",
-      "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
-      "preco": 10.5,
+      "descricao": "Rose in Love Capricho",
+      "preco": 16.00,
       "categoria_id": 1
     },
     {
       "id": 3,
-      "nome": "X-Bacon",
+      "nome": "Batom Cremoso",
       "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, 2 fatia de bacon, salada e batata.",
       "preco": 12.5,
       "categoria_id": 1
     },
     {
       "id": 4,
-      "nome": "X-Tudo",
-      "descricao": "Pão, 2 bifes de hambúrguer 90g, 2 fatias de queijo, 4 fatias de bacon, salada e batata.",
-      "preco": 14.5,
+      "nome": "Max Love",
+      "descricao": "Love Vegan Matte 422 Roxo",
+      "preco": 8.00,
       "categoria_id": 1
     },
     {
       "id": 5,
-      "nome": "Coca cola 350ml",
-      "descricao": "",
-      "preco": 5.5,
+      "nome": "Colormake",
+      "descricao": "Laranja Neon",
+      "preco": 16,
       "categoria_id": 2
     },
     {
       "id": 6,
-      "nome": "Coca cola 600ml",
-      "descricao": "",
-      "preco": 7.5,
+      "nome": "Eudora Soul",
+      "descricao": "Multiuso Dourado",
+      "preco": 25.00,
       "categoria_id": 2
+    },
+    {
+      "id": 5,
+      "nome": "Essence",
+      "descricao": "Eyeshadow 17 Fairytale",
+      "preco": 20.00,
+      "categoria_id": 2
+    },  
+    {
+      "id": 6,
+      "nome": "Vult",
+      "descricao": "Efeito Natural 01",
+      "preco": 22.00,
+      "categoria_id": 3
+    },  
+    {
+      "id": 4,
+      "nome": "Dalla",
+      "descricao": "Makeup Efeito Matte",
+      "preco": 19.00,
+      "categoria_id": 1
+    },  {
+      "id": 4,
+      "nome": "Base Liquida",
+      "descricao": "Soul Leve pra pele Bege 20ml",
+      "preco": 18.00,
+      "categoria_id": 3
     }
+    
   ],
   "categorias": [
     {
       "id": 1,
-      "nome": "Hambúrgueres"
+      "nome": "batpm"
     },
     {
       "id": 2,
-      "nome": "Refrigerantes"
+      "nome": "sombra"
     }
+    {
+      "id": 3,
+      "nome": "base"
+    },
   ]
 }
